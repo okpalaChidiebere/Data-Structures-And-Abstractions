@@ -1,0 +1,4 @@
+1>------ Build started: Project: STL_Hash_Map, Configuration: Debug Win32 ------
+1>  login.cpp
+1>  STL_Hash_Map.vcxproj -> I:\cs 210\STL_Hash_Map\Debug\STL_Hash_Map.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
